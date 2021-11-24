@@ -1,0 +1,2 @@
+2021-07-28T13:54:55+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce-payments\includes\wc-payment-api\class-wc-payments-http-interface.php on line 65
+

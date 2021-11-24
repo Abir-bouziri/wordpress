@@ -1,0 +1,32 @@
+2021-08-08T10:46:42+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\yith-woocommerce-wishlist\includes\class-yith-wcwl-session.php on line 10
+
+2021-08-08T10:46:45+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\yith-woocommerce-compare\plugin-fw\includes\class-yit-theme-licence.php on line 11
+
+2021-08-08T10:47:47+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\blocks.php on line 198
+
+2021-08-08T20:28:26+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\themes\bizberg\inc\customizer\navigation\primary-header.php on line 3
+
+2021-08-08T20:30:18+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-admin\includes\plugin.php on line 339
+
+2021-08-08T20:30:18+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\functions.php on line 6337
+
+2021-08-08T20:30:18+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-admin\includes\plugin.php on line 339
+
+2021-08-08T20:30:18+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-admin\includes\plugin.php on line 339
+
+2021-08-08T20:30:21+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\themes\bizberg\inc\plugins\kirki\lib\class-aricolor.php on line 5
+
+2021-08-08T20:30:21+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\themes\bizberg\inc\plugins\kirki\lib\class-aricolor.php on line 5
+
+2021-08-08T20:30:22+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\themes\bizberg\inc\plugins\kirki\lib\class-aricolor.php on line 5
+
+2021-08-08T20:30:21+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\themes\bizberg\inc\plugins\kirki\lib\class-aricolor.php on line 5
+
+2021-08-08T20:30:22+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\themes\bizberg\inc\plugins\kirki\upgrade-notifications.php on line 13
+
+2021-08-08T20:30:23+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\packages\action-scheduler\classes\abstracts\ActionScheduler.php on line 121
+
+2021-08-08T20:30:28+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\yith-woocommerce-compare\plugin-fw\yit-functions.php on line 10
+
+2021-08-08T20:30:29+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\yith-woocommerce-wishlist\includes\class-yith-wcwl-form-handler.php on line 57
+

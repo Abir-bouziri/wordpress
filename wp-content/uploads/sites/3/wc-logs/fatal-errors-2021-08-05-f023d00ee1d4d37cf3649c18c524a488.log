@@ -1,0 +1,192 @@
+2021-08-05T21:14:45+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in C:\xampp\htdocs\wordpress\wp-content\themes\bizberg\inc\woocommerce.php:770
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\themes\bizberg\inc\woocommerce.php(665): bizberg_get_cart_icon_floating_menu()
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(303): bizberg_floating_menus('')
+#2 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(3031): do_action('wp_footer')
+#5 C:\xampp\htdocs\wordpress\wp-includes\blocks\legacy-widget.php(123): wp_footer()
+#6 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(303): handle_legacy_widget_preview_iframe('')
+#7 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#8 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#9 C:\xampp\htdocs\wordpress\wp-admin\admin.php(175): do_action('admin_init')
+#10 C:\xampp\htdocs\wordpress\wp-admin\widgets.php(10): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\bizberg\inc\woocommerce.php on line 770
+
+2021-08-05T21:55:39+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in C:\xampp\htdocs\wordpress\wp-content\themes\bizberg\inc\woocommerce.php:770
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\themes\bizberg\inc\woocommerce.php(665): bizberg_get_cart_icon_floating_menu()
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(303): bizberg_floating_menus('')
+#2 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(3031): do_action('wp_footer')
+#5 C:\xampp\htdocs\wordpress\wp-includes\blocks\legacy-widget.php(123): wp_footer()
+#6 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(303): handle_legacy_widget_preview_iframe('')
+#7 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#8 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#9 C:\xampp\htdocs\wordpress\wp-admin\admin.php(175): do_action('admin_init')
+#10 C:\xampp\htdocs\wordpress\wp-admin\widgets.php(10): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\bizberg\inc\woocommerce.php on line 770
+
+2021-08-05T22:21:32+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in C:\xampp\htdocs\wordpress\wp-content\themes\bizberg\inc\woocommerce.php:770
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\themes\bizberg\inc\woocommerce.php(665): bizberg_get_cart_icon_floating_menu()
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(303): bizberg_floating_menus('')
+#2 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(3031): do_action('wp_footer')
+#5 C:\xampp\htdocs\wordpress\wp-includes\blocks\legacy-widget.php(123): wp_footer()
+#6 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(303): handle_legacy_widget_preview_iframe('')
+#7 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#8 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#9 C:\xampp\htdocs\wordpress\wp-admin\admin.php(175): do_action('admin_init')
+#10 C:\xampp\htdocs\wordpress\wp-admin\widgets.php(10): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\bizberg\inc\woocommerce.php on line 770
+
+2021-08-05T22:21:33+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in C:\xampp\htdocs\wordpress\wp-content\themes\bizberg\inc\woocommerce.php:770
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\themes\bizberg\inc\woocommerce.php(665): bizberg_get_cart_icon_floating_menu()
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(303): bizberg_floating_menus('')
+#2 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(3031): do_action('wp_footer')
+#5 C:\xampp\htdocs\wordpress\wp-includes\blocks\legacy-widget.php(123): wp_footer()
+#6 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(303): handle_legacy_widget_preview_iframe('')
+#7 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#8 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#9 C:\xampp\htdocs\wordpress\wp-admin\admin.php(175): do_action('admin_init')
+#10 C:\xampp\htdocs\wordpress\wp-admin\widgets.php(10): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\bizberg\inc\woocommerce.php on line 770
+
+2021-08-05T22:21:33+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in C:\xampp\htdocs\wordpress\wp-content\themes\bizberg\inc\woocommerce.php:770
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\themes\bizberg\inc\woocommerce.php(665): bizberg_get_cart_icon_floating_menu()
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(303): bizberg_floating_menus('')
+#2 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(3031): do_action('wp_footer')
+#5 C:\xampp\htdocs\wordpress\wp-includes\blocks\legacy-widget.php(123): wp_footer()
+#6 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(303): handle_legacy_widget_preview_iframe('')
+#7 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#8 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#9 C:\xampp\htdocs\wordpress\wp-admin\admin.php(175): do_action('admin_init')
+#10 C:\xampp\htdocs\wordpress\wp-admin\widgets.php(10): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\bizberg\inc\woocommerce.php on line 770
+
+2021-08-05T22:21:37+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in C:\xampp\htdocs\wordpress\wp-content\themes\bizberg\inc\woocommerce.php:770
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\themes\bizberg\inc\woocommerce.php(665): bizberg_get_cart_icon_floating_menu()
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(303): bizberg_floating_menus('')
+#2 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(3031): do_action('wp_footer')
+#5 C:\xampp\htdocs\wordpress\wp-includes\blocks\legacy-widget.php(123): wp_footer()
+#6 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(303): handle_legacy_widget_preview_iframe('')
+#7 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#8 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#9 C:\xampp\htdocs\wordpress\wp-admin\admin.php(175): do_action('admin_init')
+#10 C:\xampp\htdocs\wordpress\wp-admin\widgets.php(10): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\bizberg\inc\woocommerce.php on line 770
+
+2021-08-05T22:21:39+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in C:\xampp\htdocs\wordpress\wp-content\themes\bizberg\inc\woocommerce.php:770
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\themes\bizberg\inc\woocommerce.php(665): bizberg_get_cart_icon_floating_menu()
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(303): bizberg_floating_menus('')
+#2 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(3031): do_action('wp_footer')
+#5 C:\xampp\htdocs\wordpress\wp-includes\blocks\legacy-widget.php(123): wp_footer()
+#6 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(303): handle_legacy_widget_preview_iframe('')
+#7 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#8 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#9 C:\xampp\htdocs\wordpress\wp-admin\admin.php(175): do_action('admin_init')
+#10 C:\xampp\htdocs\wordpress\wp-admin\widgets.php(10): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\bizberg\inc\woocommerce.php on line 770
+
+2021-08-05T22:24:19+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in C:\xampp\htdocs\wordpress\wp-content\themes\bizberg\inc\woocommerce.php:770
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\themes\bizberg\inc\woocommerce.php(665): bizberg_get_cart_icon_floating_menu()
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(303): bizberg_floating_menus('')
+#2 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(3031): do_action('wp_footer')
+#5 C:\xampp\htdocs\wordpress\wp-includes\blocks\legacy-widget.php(123): wp_footer()
+#6 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(303): handle_legacy_widget_preview_iframe('')
+#7 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#8 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#9 C:\xampp\htdocs\wordpress\wp-admin\admin.php(175): do_action('admin_init')
+#10 C:\xampp\htdocs\wordpress\wp-admin\widgets.php(10): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\bizberg\inc\woocommerce.php on line 770
+
+2021-08-05T22:24:20+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in C:\xampp\htdocs\wordpress\wp-content\themes\bizberg\inc\woocommerce.php:770
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\themes\bizberg\inc\woocommerce.php(665): bizberg_get_cart_icon_floating_menu()
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(303): bizberg_floating_menus('')
+#2 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(3031): do_action('wp_footer')
+#5 C:\xampp\htdocs\wordpress\wp-includes\blocks\legacy-widget.php(123): wp_footer()
+#6 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(303): handle_legacy_widget_preview_iframe('')
+#7 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#8 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#9 C:\xampp\htdocs\wordpress\wp-admin\admin.php(175): do_action('admin_init')
+#10 C:\xampp\htdocs\wordpress\wp-admin\widgets.php(10): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\bizberg\inc\woocommerce.php on line 770
+
+2021-08-05T22:24:21+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in C:\xampp\htdocs\wordpress\wp-content\themes\bizberg\inc\woocommerce.php:770
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\themes\bizberg\inc\woocommerce.php(665): bizberg_get_cart_icon_floating_menu()
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(303): bizberg_floating_menus('')
+#2 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(3031): do_action('wp_footer')
+#5 C:\xampp\htdocs\wordpress\wp-includes\blocks\legacy-widget.php(123): wp_footer()
+#6 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(303): handle_legacy_widget_preview_iframe('')
+#7 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#8 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#9 C:\xampp\htdocs\wordpress\wp-admin\admin.php(175): do_action('admin_init')
+#10 C:\xampp\htdocs\wordpress\wp-admin\widgets.php(10): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\bizberg\inc\woocommerce.php on line 770
+
+2021-08-05T22:24:21+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in C:\xampp\htdocs\wordpress\wp-content\themes\bizberg\inc\woocommerce.php:770
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\themes\bizberg\inc\woocommerce.php(665): bizberg_get_cart_icon_floating_menu()
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(303): bizberg_floating_menus('')
+#2 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(3031): do_action('wp_footer')
+#5 C:\xampp\htdocs\wordpress\wp-includes\blocks\legacy-widget.php(123): wp_footer()
+#6 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(303): handle_legacy_widget_preview_iframe('')
+#7 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#8 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#9 C:\xampp\htdocs\wordpress\wp-admin\admin.php(175): do_action('admin_init')
+#10 C:\xampp\htdocs\wordpress\wp-admin\widgets.php(10): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\bizberg\inc\woocommerce.php on line 770
+
+2021-08-05T22:24:24+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in C:\xampp\htdocs\wordpress\wp-content\themes\bizberg\inc\woocommerce.php:770
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\themes\bizberg\inc\woocommerce.php(665): bizberg_get_cart_icon_floating_menu()
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(303): bizberg_floating_menus('')
+#2 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#3 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wordpress\wp-includes\general-template.php(3031): do_action('wp_footer')
+#5 C:\xampp\htdocs\wordpress\wp-includes\blocks\legacy-widget.php(123): wp_footer()
+#6 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(303): handle_legacy_widget_preview_iframe('')
+#7 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#8 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#9 C:\xampp\htdocs\wordpress\wp-admin\admin.php(175): do_action('admin_init')
+#10 C:\xampp\htdocs\wordpress\wp-admin\widgets.php(10): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\themes\bizberg\inc\woocommerce.php on line 770
+

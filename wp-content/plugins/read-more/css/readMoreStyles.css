@@ -1,0 +1,98 @@
+.yrm-content {
+	display: none;
+	color: gray !important;
+}
+
+.yrm-toggle-expand {
+	/*border: 1px solid #CCC;
+	width: 120px;
+	display: inline-block;*/
+	cursor: pointer;
+	vertical-align: middle;
+	text-align: center;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	position: relative;
+}
+
+.yrm-btn-wrapper {
+	text-align: center;
+	padding-top: 5px;
+	position: relative;
+}
+span.yrm-button-text:hover {
+    background:#f5b629;
+}
+.yrm-button-text {
+	/*position: absolute; forme normale
+    top: 50%;  
+    left: 50%; 
+    transform: translate(-50%, -50%);
+    font-size: 14px;
+    font-family: Arial;
+    width: 100%;*/
+	/*display: inline-block;
+    font-size: 14px;
+    text-transform: uppercase;
+    padding: 17px 40px;
+    padding-top: 17px;
+    padding-right: 40px;
+    padding-bottom: 17px;
+    padding-left: 40px;
+    padding-top: 17px;
+    padding-right: 40px;
+    padding-bottom: 17px;
+    padding-left: 40px;
+    border-radius: 35px;
+    border-top-left-radius: 35px;
+    border-top-right-radius: 35px;
+    border-bottom-right-radius: 35px;
+    border-bottom-left-radius: 35px;
+    border-top-left-radius: 35px;
+    border-top-right-radius: 35px;
+    border-bottom-right-radius: 35px;
+    border-bottom-left-radius: 35px;
+    letter-spacing: 2px;
+    font-weight: 500;
+    -webkit-transition: .3s;
+    transition: .3s;
+    border-style: solid;
+    border-color: #f5b629;
+    /* position: relative; */
+    z-index: 1;
+    /* width: 100%; */
+   /* background: transparent;*/
+   /*------------------------- forme petit */
+   display: inline-block;
+    font-size: 14px;
+   /* text-transform: uppercase;*/
+    padding: 17px 40px;
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    border-radius: 35px;
+    border-top-left-radius: 35px;
+    border-top-right-radius: 35px;
+    border-bottom-right-radius: 35px;
+    border-bottom-left-radius: 35px;
+    border-top-left-radius: 35px;
+    border-top-right-radius: 35px;
+    border-bottom-right-radius: 35px;
+    border-bottom-left-radius: 35px;
+    letter-spacing: 2px;
+    font-weight: 500;
+    -webkit-transition: .3s;
+    transition: .3s;
+    border-style: solid;
+    border-color: #f5b629;
+    /* position: relative; */
+    z-index: 1;
+    /* width: 100%; */
+    background: transparent;
+}

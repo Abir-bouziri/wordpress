@@ -1,0 +1,8 @@
+2021-08-15T10:42:03+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\themes\bizberg-shop\customizer\woocommerce-category-menu.php on line 3
+
+2021-08-15T10:44:30+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\yith-woocommerce-wishlist\includes\functions-yith-wcwl.php on line 10
+
+2021-08-15T10:44:37+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\Requests\Transport\cURL.php on line 165
+
+2021-08-15T11:06:14+00:00 CRITICAL Out of memory (allocated 10485760) (tried to allocate 32768 bytes) in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\src\Utilities\NumberUtil.php on line 1
+
